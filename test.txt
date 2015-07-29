@@ -6,3 +6,12 @@ pull
 merge
 request
 add
+sort
+push
+stash
+edit
+ghkg
+hiseitgwei
+hgihgi
+gfhagfg
+afternoon
