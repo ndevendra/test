@@ -2,3 +2,7 @@ hello world
 hii everyone
 created a branch
 new branch
+pull
+merge
+request
+add
